@@ -1,4 +1,4 @@
-\# Alarm Walker Admin Web
+# Alarm Walker Admin Web
 
 
 
@@ -10,27 +10,27 @@ The admin panel is used to monitor application issue logs, view reported crashes
 
 
 
-\## Live Website
+## Live Website
 
 
 
 Render deployment URL:
 
-\[https://alarm-walker-admin-web.onrender.com/]
+[https://alarm-walker-admin-web.onrender.com/]
 
 
 
-\## Main Project Repository
+## Main Project Repository
 
 
 
 Main Alarm Walker source code repository:
 
-\[https://github.com/Pythoenixx/alarm\_walker]
+[https://github.com/Pythoenixx/alarm\_walker]
 
 
 
-\## Notes
+## Notes
 
 
 
